@@ -1,0 +1,4 @@
+---
+# vars file for nginx
+motd_redhat: "welcome to redhat linux\n"
+motd_ubuntu: "welcome to ubuntu linux \n"

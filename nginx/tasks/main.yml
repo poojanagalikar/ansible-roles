@@ -1,0 +1,5 @@
+---
+# tasks file for nginx
+- import_tasks: installepel.yml
+- import_tasks: intallnginx.yml
+- import_tasks: intallpatch.yml
